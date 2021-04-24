@@ -1,0 +1,111 @@
+.ovalLogo{
+    padding-top: 150px;
+}
+
+.oval{
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    border: 1px solid #BBBBBB;
+    border-radius: 50%;
+    margin: auto;
+    opacity: 40%;
+}
+
+.nilogo{
+    height: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.nameInputDiv{
+    padding-top: 50px;
+}
+
+.nameInput{
+    opacity: 22%;
+    border: 3px solid #034DE8;
+    border-radius: 30px;
+    height: 50px;
+    font-family: Nunito;
+    color: #1254CA;
+    text-indent: 30px;
+}
+
+.nameInput::placeholder{
+  color: black;
+}
+
+.apellidoInput{
+  opacity: 22%;
+  border: 3px solid #034DE8;
+  border-radius: 30px;
+  height: 50px;
+  font-family: Nunito;
+  color: #1254CA;
+  text-indent: 30px;
+}
+
+.apellidoInput::placeholder{
+  color: black;
+}
+
+
+.apellidoInputDiv{
+  padding-top: 30px;
+}
+
+.buttonLogin{
+  padding-top: 80px;
+}
+
+.loginButton{
+  width: 100%;
+  background-color: #F9865C;
+  border-radius: 30px;
+  border-color: #D9C7C7;
+  font-family: Nunito;
+}
+
+.registerButtonDiv{
+  padding-top: 20px;
+}
+
+.registerButton{
+  width: 100%;
+  background-color: #FD4E4E;
+  border-radius: 30px;
+  border-color: #D9C7C7;
+  font-family: Nunito;
+}
+
+.footer{
+  padding-top: 110px;
+}
+
+.forgetPassword{
+  color: #DFD5D5;
+  text-align: center;
+  font-style: italic;
+  font-family: Nunito;
+}
+
+.userIcon{
+  position: absolute;
+  top: 376px;
+  left: 550px;
+  width: 36px;
+  height: 36px;
+  color: #1254CA;
+  opacity: 40%;
+}
+
+.passwordIcon{
+  position: absolute;
+  top: 456px;
+  left: 550px;
+  width: 36px;
+  height: 36px;
+  color: #1254CA;
+  opacity: 40%;
+}

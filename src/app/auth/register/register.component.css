@@ -1,0 +1,131 @@
+.titleContainer{
+  padding-top: 120px;
+  text-align: center;
+  font-size: 40px;
+  color: #E1D6D6;
+  font-family: Nunito;
+}
+
+.inputGroup{
+  padding-top: 120px;
+}
+
+.nameInput{
+  opacity: 22%;
+  border: 3px solid #034DE8;
+  border-radius: 30px;
+  height: 50px;
+  font-family: Nunito;
+  color: #1254CA;
+  text-indent: 30px;
+}
+
+.apellidoInput{
+  opacity: 22%;
+  border: 3px solid #034DE8;
+  border-radius: 30px;
+  height: 50px;
+  font-family: Nunito;
+  color: #1254CA;
+  text-indent: 30px;
+}
+
+.emailInput{
+  opacity: 22%;
+  border: 3px solid #034DE8;
+  border-radius: 30px;
+  height: 50px;
+  font-family: Nunito;
+  color: #1254CA;
+  text-indent: 30px;
+}
+
+.rowEmail{
+  padding-top: 30px;
+}
+
+.rowPassword{
+  padding-top: 30px;
+}
+
+.passwordInput{
+  opacity: 22%;
+  border: 3px solid #034DE8;
+  border-radius: 30px;
+  height: 50px;
+  font-family: Nunito;
+  color: #1254CA;
+  text-indent: 30px;
+}
+
+.passwordConfirmationInput{
+  opacity: 22%;
+  border: 3px solid #034DE8;
+  border-radius: 30px;
+  height: 50px;
+  font-family: Nunito;
+  color: #1254CA;
+  text-indent: 30px;
+}
+
+.registerButtonRow{
+  padding-top: 30px;
+}
+
+.registerButton{
+  width: 100%;
+  background-color: #FD4E4E;
+  border-radius: 30px;
+  border-color: #D9C7C7;
+  font-family: Nunito;
+}
+
+.nameIcon{
+  position: absolute;
+  top: 333px;
+  left: 300px;
+  height: 36px;
+  width: 36px;
+  color: #1254CA;
+  opacity: 40%;
+}
+
+.apellidoIcon{
+  position: absolute;
+  top: 333px;
+  left: 815px;
+  height: 36px;
+  width: 36px;
+  color: #1254CA;
+  opacity: 40%;
+}
+
+.emailIcon{
+  position: absolute;
+  top: 413px;
+  left: 300px;
+  height: 36px;
+  width: 36px;
+  color: #1254CA;
+  opacity: 40%;
+}
+
+.passwordIcon{
+  position: absolute;
+  top: 493px;
+  left: 300px;
+  height: 36px;
+  width: 36px;
+  color: #1254CA;
+  opacity: 40%;
+}
+
+.passwordConfirmationIcon{
+  position: absolute;
+  top: 493px;
+  left: 815px;
+  height: 36px;
+  width: 36px;
+  color: #1254CA;
+  opacity: 40%;
+}

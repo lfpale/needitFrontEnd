@@ -3,3 +3,8 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+@font-face {
+  font-family: Nunito;
+  src: url("assets/fonts/Nunito-Light.ttf") format("opentype");
+}
